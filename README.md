@@ -2,7 +2,6 @@
 
 ### Currently into:
 * 🌐 Front-end Development (HTML, CSS, JS)
-* 🎮 Game Development (pygame, javascript)
 * 🎹 Digital Audio Synthesis (Pure Data)
 
 <!---
